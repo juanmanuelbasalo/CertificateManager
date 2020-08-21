@@ -1,0 +1,7 @@
+**/bin
+**/obj
+**/.vs
+/ExampleChainedClientServerAuth/_chainedServerLogs.txt
+/ExampleChainedClientServerAuth/_clientLogs.txt
+/ExampleChainedClientServerAuth/AspNetCoreCertificateAuthApiChained/AspNetCoreCertificateAuthApiChained.csproj.user
+/examplesUsingCertificateAuthentication/GrpcCertAuthChainedCertificate/grpcServer.txt
